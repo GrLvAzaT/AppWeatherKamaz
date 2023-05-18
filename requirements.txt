@@ -1,0 +1,5 @@
+kivy
+kivymd
+beautifulsoup4
+kivy-garden
+kivy-garden.mapview
